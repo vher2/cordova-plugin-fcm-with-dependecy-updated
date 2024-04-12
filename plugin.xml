@@ -116,7 +116,7 @@
 		<!-- FIREBASE COCOAPODS-->
 		<podspec>
 			<config>
-                <source url="https://github.com/CocoaPods/Specs.git"/>
+                <!-- <source url="https://github.com/CocoaPods/Specs.git"/> -->
 			</config>
 			<pods inhibit-all-warnings="true">
 				<pod name="GoogleUtilities" options=":modular_headers => true" />
