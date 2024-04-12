@@ -115,10 +115,7 @@
 
 		<!-- FIREBASE COCOAPODS-->
 		<podspec>
-			<config>
-                <source url="https://github.com/CocoaPods/Specs.git"/>
-			</config>
-			<pods use-frameworks="true">
+			<pods>
 				<pod name="GoogleUtilities" options=":modular_headers => true" />
 				<pod name="Firebase/Analytics" spec=">= 6.21.0" />
 				<pod name="Firebase/Messaging" spec=">= 6.21.0" />
