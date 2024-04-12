@@ -120,6 +120,7 @@
 			</config>
 			<pods>
 				<pod name="Firebase" options=":modular_headers => true" />
+				<pod name="FirebaseCoreInternal" options=":modular_headers => true" />
 				<pod name="GoogleUtilities" options=":modular_headers => true" />
 				<pod name="FirebaseCore" options=":modular_headers => true" />
 			</pods>
