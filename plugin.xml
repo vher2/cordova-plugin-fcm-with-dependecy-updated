@@ -115,6 +115,9 @@
 
 		<!-- FIREBASE COCOAPODS-->
 		<podspec>
+			<config>
+
+			</config>
 			<pods>
 				<pod name="GoogleUtilities" options=":modular_headers => true" />
 				<pod name="Firebase/Analytics" spec=">= 6.21.0" />
