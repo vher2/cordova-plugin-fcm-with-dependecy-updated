@@ -119,7 +119,7 @@ DESC
   #  the lib prefix of their name.
   #
 
-  spec.frameworks  = "AddressBook", "Security", "UIKit"
+  spec.frameworks  = "Security", "UIKit"
   # spec.framework  = "SomeFramework"
   # spec.frameworks = "SomeFramework", "AnotherFramework"
 
